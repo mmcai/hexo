@@ -4,11 +4,11 @@
 
 # Site
 title: Hexo
-subtitle:
+subtitle: "二级标题"
 description: ZERO
 author: John Doe
 language: zh-CN
-timezone: Asiz/Shanghai
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -71,3 +71,5 @@ deploy:
   type: git
   repo: https://github.com/mmcai/mmcai.github.com.git
   branch: master
+  name: mmcai
+  email: mmcai1013@gmail.com
